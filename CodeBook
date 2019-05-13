@@ -25,3 +25,17 @@ PF Personal Fouls
 PFD Personal Fouls Drawn 
 PTS Points 
 +/- Plus Minus
+OFFRTG Offensive Rating 
+DEFRTG Defensive Rating 
+NETRTG Net Rating 
+AST% Assist Percentage 
+AST/TO Assist to Turnover Ratio 
+AST RATIO Assist Ratio 
+OREB% Offensive Rebound Percentage 
+DREB% Defensive Rebound Percentage 
+REB% Rebound Percentage 
+TOV% Turnover Percentage 
+EFG% Effective Field Goal Percentage 
+TS% True Shooting Percentage 
+PACE Pace 
+PIE Player Impact Estimate
